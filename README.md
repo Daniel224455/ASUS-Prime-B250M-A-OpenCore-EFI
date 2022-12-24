@@ -27,4 +27,7 @@ Make sure to use GenSMBIOS to gen a new SMBIOS and serial and then do a clean sn
 MacSerial has been blanked due to iCloud reasons.
 
 Credits : 
-Acidanthera - awesome bootloader wonpn - platform-id patches CorpNewt - thanks for helping me out  Daniel224455 - making the EFI
+Acidanthera - awesome bootloader
+wonpn - platform-id patches
+CorpNewt - thanks for helping me out
+Daniel224455 - making the EFI
