@@ -25,3 +25,9 @@ SMBIOS used macmini8,1 due to artifacts with iMac17,1/18,1
 Make sure to use GenSMBIOS to gen a new SMBIOS and serial and then do a clean snapshot with ProperTree
 
 MacSerial has been blanked due to iCloud reasons.
+
+Credits : 
+Acidanthera - awesome bootloader
+wonpn - platform-id patches
+CorpNewt - thanks for helping me out
+Daniel224455 - making the EFI
